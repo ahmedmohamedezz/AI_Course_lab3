@@ -1,0 +1,5 @@
+{
+  "name": "GenAi lab3",
+  "description": "An all-in-one application to generate images from text, ask questions about uploaded images (vision), and chat with your text-based files using the power of Google's Gemini API.",
+  "requestFramePermissions": []
+}
